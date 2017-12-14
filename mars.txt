@@ -1,5 +1,10 @@
 Cold and dry, but everything is my favorite color 
 The two moons may be a problem for Wolfman
+<<<<<<< HEAD
 Time to explore Venus, yay. Here we are!!!
 this sucks so much
 shahbaz sucks
+=======
+Time to explore Venus, yay. Here we are!!!
+>>>>>>> 3578d61f47bdf1ba0c5f21c2b7403c19cc40929e
+3.14159265358979323846264338327950288419716939937510582097494459230781640628620899862803
